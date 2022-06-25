@@ -1,0 +1,13 @@
+Open Anaconda Prompt.
+Go to project directory.
+Run "python Project-GUI.py".
+Wait for the convolutional weights to be loaded. It will take some time.
+The GUI opens.
+Select any video file from your pc.
+A preview will be loaded.
+Now select Region of Interest.
+Detection will start automatically.
+This will be a slow process.
+You can press "q" to exit.
+Go to the directory.
+Output video and detected vehicles are saved.
